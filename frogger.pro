@@ -14,8 +14,6 @@ SOURCES += src/frogger.cpp
 
 OTHER_FILES += qml/frogger.qml \
     qml/cover/CoverPage.qml \
-    qml/pages/FirstPage.qml \
-    qml/pages/SecondPage.qml \
     rpm/frogger.spec \
     rpm/frogger.yaml \
     frogger.desktop
